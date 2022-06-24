@@ -1,6 +1,6 @@
 # Hello there!
 
-I’m a full-stack developer more interested in back-end development. I'm currently learning Java while also trying to improve my skills on Node.js.
+I’m a full-stack developer more interested in back-end development. I'm currently learning Java while also trying to improve my skills in Node.js.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - How to reach me: contato@alexbraga.com.br
 
