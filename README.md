@@ -1,7 +1,7 @@
 # Hello there!
 
-I’m a full-stack developer more interested in back-end development. I'm currently focused in learning Java with Spring, while also trying to improve my skills in Node.js and Linux.
-<!-- - 💞️ I’m looking to collaborate on ... -->
+I’m a full-stack developer more interested in back-end development. I'm currently focused on learning Java with Spring, while also trying to improve my skills on Linux and practicing Node.js.
+<!-- - I’m looking to collaborate on ... -->
 - How to reach me: contato@alexbraga.com.br
 
  [![Alex Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbraga&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
