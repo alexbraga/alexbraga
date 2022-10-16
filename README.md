@@ -1,6 +1,6 @@
 # Hello there!
 
-I’m a full-stack developer more interested in back-end development. I'm currently focused on learning Java with Spring, while also trying to improve my skills on Linux and practicing Node.js.
+I’m a full-stack developer more interested in back-end development. I'm currently focused on learning Java with Spring and developing apps following TDD principles, while also trying to improve my skills on Linux and practicing Node.js.
 <!-- - I’m looking to collaborate on ... -->
 - How to reach me: contato@alexbraga.com.br
 
