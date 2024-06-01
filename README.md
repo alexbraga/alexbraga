@@ -1,6 +1,6 @@
 # Hello there!
 
-I’m a CS student and a full-stack developer more interested in back-end development. I'm currently focused on learning Java with Spring and developing apps following TDD principles, while also trying to improve my skills on Linux everyday.
+<p align="justify">I’m a CS student with a strong inclination towards back-end development. Currently, I'm focused on learning Java with Spring and developing applications following TDD principles. Furthermore, I am dedicated to continually improving my Linux skills.</p>
 
 <!-- - I’m looking to collaborate on ... -->
 
@@ -29,5 +29,3 @@ I’m a CS student and a full-stack developer more interested in back-end develo
 <a href="https://www.linkedin.com/in/alexgbraga/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;
 <a href="mailto:contato@alexbraga.com.br" target="_blank"><img alt="E-Mail" src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
-
-<a rel="me" href="https://fosstodon.org/@alexbraga"></a>
