@@ -1,6 +1,10 @@
 # Hello there!
 
-<p align="justify">I’m a CS student with a strong inclination towards back-end development. Currently, I'm focused on learning Java with Spring and developing applications following TDD principles. Furthermore, I am dedicated to continually improving my Linux skills.</p>
+<p align="justify">I’m a CS student with a strong inclination towards back-end development. Currently, I'm focused on learning Java with Spring and developing applications following TDD principles. Furthermore, I am dedicated to continually improving my Linux skills.
+
+I have a web app built from scratch as the result of my very first personal project—a movie diary where you can keep track of watched movies alongside with ratings and reviews—and you can access it here: https://cinelog-js.netlify.app
+
+I hope you enjoy it!</p>
 
 <!-- - I’m looking to collaborate on ... -->
 
