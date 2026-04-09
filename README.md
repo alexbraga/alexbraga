@@ -28,6 +28,10 @@ I hope you enjoy it!</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbraga&theme=material-palenight&layout=compact&hide_border=true&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 ### How to reach me:
 
 <div>
